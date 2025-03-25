@@ -5,7 +5,7 @@ import {
   doclogo,
   reslogo4,
   web,
-  
+  testimonial1
 } from "../assets";
 
 export const navLinks = [
@@ -138,10 +138,10 @@ const experiences = [
 
 const testimonials = [
   {
-    testimonial:
+    title:
       "I had a fantastic experience collaborating with Tuduru Himagiri Nandan. His exceptional frontend skills greatly enhanced out project, and I was able to improve my Python and Flask skills throughout the hackathon. Looking forward to more opportunities to learn and grow together!",
     name: "Naga Srinath",
-    image: "https://randomuser.me/api/portraits/women/4.jpg", // I should change image of his here...
+    image: testimonial1, // I should change image of his here...
   },
 ];
 

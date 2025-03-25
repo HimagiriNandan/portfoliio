@@ -25,10 +25,6 @@ const Contact = () => {
 
 
   }
-  // template_id: template_vai3t73
-  // service_id: service_wqgua2p
-  // public key: 1H7XTkjcUtx4Vm1Op
-  // The above all will get from the emailjs.com
 
   const handleSubmit = (e) => {
     e.preventDefault();
